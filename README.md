@@ -1,5 +1,6 @@
 # 20-04-09 Express Router CW
-
+Make sure to check your paths against the requirements
+### Score : 4/5
 [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes#Routes_primer)
 
 ### Set Up
